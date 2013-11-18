@@ -1,4 +1,4 @@
-We are students of San Valero and we will like to share our progress. Whe will be creating along this year an application similar to Groupon 
+We are students of San Valero, currently attending to 2 years of multiplatform development tools , and we will like to share our progress. We will be developingan Android application similar to Groupon. Hopefully it will have some use for someone. 
 
 
 
