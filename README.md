@@ -7,8 +7,7 @@ We will be developing an Android application similar to Groupon. Hopefully, when
 #Who are we?   
 We are students from San Valero, currently attending to our 2 year of Multiplatform Development Tools.
 
-Creators: 
-
 -Alvaro Bernal Gimeno.
 
 -Alejandro Mur Pállas. 
+ 
